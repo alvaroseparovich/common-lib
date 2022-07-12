@@ -1,0 +1,7 @@
+{
+  "name": "common-libs",
+  "version": "1.0.0",
+  "description": "As libs com código simples de ser usado que se encaixa na mior parte do uso das aplicações",
+  "main": "index.js",
+  "license": "MIT"
+}
